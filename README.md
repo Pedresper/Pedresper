@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pedresper
 - 👀 I’m interested in ... Game Dev (UI/ UX, Character Design, Programming, Game Design)
-- 🌱 I’m currently learning ... C#, C++, Java, Unity, Photoshop, Procreate, Maya, Blender, 3DMax
+- 🌱 I’m currently learning ... C#, C++, Java, Unity, Photoshop, Procreate, Maya, Blender, 3DsMax
 - 💞️ I’m looking to collaborate on ... Game Projects
 [- 📫 How to reach me ... (esper.pedro1@gmail.com)
 <!---
